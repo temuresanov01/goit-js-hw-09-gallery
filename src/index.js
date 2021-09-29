@@ -1,5 +1,5 @@
 import './sass/main.scss';
-import galleryItems from './galleryItems.js';
+import galleryItems from './js/generate-main.js';
 
 // ===== ADD MARKUP =====
 
